@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MenuFragmentCurso</string>
+    <string name="mostrarBarra">Abrir nav</string>
+    <string name="cerrarBarra">Cerrar nav</string>
+    <string name="menu_camera">camara</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_manage">Manage</string>
+    <string name="menu_grupo">Grupo</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_send">Enviar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="homeFragment">Home</string>
+    <string name="galleryFragment">galeria</string>
+    <string name="cameraFragment">camara</string>
+</resources>
